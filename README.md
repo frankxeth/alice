@@ -1,2 +1,2 @@
 # alice
-A special collection of NFT games, digital art, and local metaverse assets.
+A special is a BITCOIN SAVING TRACKER real-time Bitcoin L1 on-chain .
