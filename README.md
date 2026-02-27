@@ -10,8 +10,15 @@ Stream live data from the Bitcoin blockchain via APIs like Glassnode and QuickNo
 
 AI model that analyzes "invisible walls" patterns, whale accumulation, and ETF flows for accurate price predictions.
 
+
+
+
 #MORE UPDATE IS COMING SOON 🛠️🤞
 
 ................The website is not completely perfect....................
+
+Thanks for OPNET TEAM 
+
+Regards @frankxeth_
 
 
