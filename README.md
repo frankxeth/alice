@@ -15,7 +15,7 @@ AI model that analyzes "invisible walls" patterns, whale accumulation, and ETF f
 
 #MORE UPDATE IS COMING SOON 🛠️🤞
 
-# The website is not completely perfect
+# The projects is not completely perfect
 
 Thanks for OPNET TEAM 
 
