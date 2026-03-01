@@ -20,8 +20,8 @@ UI & Actions: Modal amount input, "Add/Remove Liquidity" button, auto-compound r
 # Portfolio Tracker
 A section for monitoring personal portfolio, wallet balance, P&L (profit/loss), and held assets with automatic calculations.
 
-# AI Signal Generator
-AI model that analyzes "invisible walls" patterns, whale accumulation, and ETF flows for accurate price predictions.
+# AI ASK
+AI model that analyzes "invisible walls" patterns, whale accumulation, and ETF flows for accurate predictions.
 
 
 #MORE UPDATE IS COMING SOON 🛠️🤞
